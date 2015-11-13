@@ -1,6 +1,5 @@
 % Produce random numbers by Gaussian mixture and try to retrieve the
 % parameters.
-% Currently only works with 2 mixtures
 
 % Means
 mu      = [10 20 30];
